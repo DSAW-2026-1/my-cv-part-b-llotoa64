@@ -88,3 +88,5 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/61c4a3f2-8168-4165-bf46-a50247e46409" />
+
