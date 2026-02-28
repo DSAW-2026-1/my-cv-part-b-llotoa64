@@ -1,8 +1,9 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sLLxdbNJ)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7-4AltFg)
 # Bienvenidos a la Tarea de HTML y CSS
 ## 🌐 CV desplegado
 
-👉 https://dsaw-2026-1.github.io/my-cv-part-a-llotoa64/
+TRABAJO: https://dsaw-2026-1.github.io/my-cv-part-a-llotoa64/
 
 ¡Hola a todos!
 
@@ -88,5 +89,7 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
-<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/61c4a3f2-8168-4165-bf46-a50247e46409" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/189baf17-9d29-4a73-9144-ef8c1772d162" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/d30155df-e7b7-4215-aafe-4a80ba3b7bde" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/9e1b6232-dcee-4381-90ed-7fac9e5b4c90" />
 
